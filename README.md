@@ -9,6 +9,17 @@ Solutions can be found from [this repo branches](https://github.com/nazmi/rustli
 
 Please create an issue if you want updated version of solutions.
 
+## Testing solutions
+You can test the solutions by running the following command:
+```bash
+# Clone the repo
+$ git clone https://github.com/nazmi/rustlings-solution.git
+
+# Run the tests
+$ ./rustlings-solution/rustlings-test.sh <version>
+```
+The script will download specific version of rustlings and run the solutions against it.
+
 ## Rustlings 🦀❤️
 Latest and original rustlings repo is here. [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 

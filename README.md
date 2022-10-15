@@ -1,5 +1,5 @@
 # Rustlings Solutions
-The solutions are for rustlings release v5.0.0. 
+The solutions are for rustlings release v5.1.1. 
 Other version solutions can be found from [this repo branches](https://github.com/nazmi/rustlings-solution/branches).
 
 Please create an issue if you want updated version of solutions.

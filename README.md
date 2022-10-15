@@ -2,9 +2,14 @@
 The solutions are for rust-lang/rustlings. 
 Solutions can be found from [this repo branches](https://github.com/nazmi/rustlings-solution/branches).
 
+## Available solutions
+- [v5.0.0](https://github.com/nazmi/rustlings-solution/tree/5.0.0)
+- [v5.1.0 → v5.1.1](https://github.com/nazmi/rustlings-solution/tree/5.1.1)
+- [v5.2.0 → v5.2.1](https://github.com/nazmi/rustlings-solution/tree/5.2.1)
+
 Please create an issue if you want updated version of solutions.
 
-## rustlings 🦀❤️
+## Rustlings 🦀❤️
 Latest and original rustlings repo is here. [rust-lang/rustlings](https://github.com/rust-lang/rustlings)
 
 Alternatively, for a first-time Rust learner, there are several other resources:
